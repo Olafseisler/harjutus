@@ -1,2 +1,2 @@
 paranda ära
-merge conflict
+midagi uut
