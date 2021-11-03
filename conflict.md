@@ -1,0 +1,2 @@
+paranda ära
+merge conflict
